@@ -37,9 +37,11 @@ I am a **Passionate Coder & Full Stack Developer** passionate about building web
 
 ---
 
-### 🌟 GitHub Stats
-- 🔥 **Current Streak:** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nandu&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
-- 📂 **Repositories:** I have built multiple repositories focusing on frontend and backend development, including projects in React, Node.js, and full-stack applications.
+### 🌎 Coding Profiles
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/your-profile](https://leetcode.com/u/Nandini_Tallapudi/))
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-profile)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your-profile)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/your-profile)
 
 ---
 
