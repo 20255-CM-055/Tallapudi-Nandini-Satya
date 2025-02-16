@@ -27,7 +27,7 @@ I am a **Passionate Coder & Full Stack Developer** passionate about building web
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### 📱 Mobile
+#### 🌟 Mobile
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 #### 🛠 Backend & Database
@@ -37,15 +37,15 @@ I am a **Passionate Coder & Full Stack Developer** passionate about building web
 
 ---
 
-### 🌎 Coding Profiles
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Nandini_Tallapudi/)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nandini_2065)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/nandinita0eb4/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/nandini_satyaa)
+### 🌍 Coding Profiles
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Nandini_Tallapudi/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nandini_2065)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/nandinita0eb4/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nandini_satyaa)
 
 ---
 
-### 👫 Connect With Me
+### 👯 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandini-tallapudi-2004/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nandu_Tallapudi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
