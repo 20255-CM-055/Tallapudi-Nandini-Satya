@@ -53,11 +53,13 @@ I am a **Passionate Coder & Full Stack Developer** passionate about building web
 ---
 
 ### 📌 Latest Projects
-🚀 **Project 1** - [Live Demo](#) | [GitHub](#)
+🚀 **Travel Tale Project** - [Live Demo](https://travel-tale-pi.vercel.app/) | [GitHub](https://github.com/20255-CM-055/Travel_Tale_Project)
 
-🚀 **Project 2** - [Live Demo](#) | [GitHub](#)
+🚀 **Recipe App Project** - [Live Demo](https://drive.google.com/file/d/1GYe6EsobwfiM2-1a9drutBFFpSp01Pck/view?usp=sharing) | [GitHub](https://github.com/20255-CM-055/Recipe_App_Project)
 
-🚀 **Project 3** - [Live Demo](#) | [GitHub](#)
+🚀 **Netflix Clone Project** - [Live Demo](https://drive.google.com/file/d/1K19xlbG2R2ieydga8pc5Pd6KjBHxs-68/view?usp=sharing) | [GitHub](https://github.com/20255-CM-055/Netflix_Clone_Project)
+
+🚀 **Shop Ease Project** - [Live Demo](https://shop-ease-weld-eight.vercel.app/) | [GitHub](https://github.com/20255-CM-055/shop_ease_project/tree/main)
 
 ---
 
