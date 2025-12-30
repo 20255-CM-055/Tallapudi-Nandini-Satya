@@ -29,10 +29,7 @@ I am a **UI/UX Designer & Full Stack Developer** passionate about building web a
   <img src="https://skillicons.dev/icons?i=cpp,java" />
 </p>
 
-#### 🖥 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java" />
-</p>
+#### 🖥 Frontend and Mobile
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" />
@@ -42,10 +39,7 @@ I am a **UI/UX Designer & Full Stack Developer** passionate about building web a
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql" />
 </p>
 
-#### 🌟 Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
+
 
 #### 🛠 Backend & Database
 <p>
