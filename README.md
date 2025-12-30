@@ -111,11 +111,4 @@ I am a **UI/UX Designer & Full Stack Developer** passionate about building web a
 ### 🎉 Fun Fact
 💡 I love building **cool UI/UX designs** and experimenting with **animations & effects**!
 
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3Y3bG85ZnV2eHNpeDRlYTd0N3U3cHd0MTMzMDNzbzcxYjcyaWw4ZSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/9PhdJO4CMfyfXDCnko/giphy.gif"
-    alt="Developer"
-    width="280"
-  />
-</p>
 
