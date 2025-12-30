@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3Y3bG85ZnV2eHNpeDRlYTd0N3U3cHd0MTMzMDNzbzcxYjcyaWw4ZSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"
-    alt="Developer"
-    width="280"
-  />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzhjanpvNW5maDg0a3hveXk0MjhmZjBtYWF1NHZxbG9zMzk3YWtheCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="300" />
 </p>
 
 I am a **UI/UX Designer & Full Stack Developer** passionate about building web and mobile applications. I love to design and explore new technologies.
@@ -29,23 +25,25 @@ I am a **UI/UX Designer & Full Stack Developer** passionate about building web a
   <img src="https://skillicons.dev/icons?i=cpp,java" />
 </p>
 
-#### 🖥 Frontend and Mobile
-
+#### 🖥️ Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma&perline=10" />
 </p>
 
+#### 🖥 Mobile App Development using React
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=react&perline=10" />
 </p>
 
-
+### 🎨 UI/UX Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma&perline=10" />
+</p>
 
 #### 🛠 Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=10" />
 </p>
-
 
 ---
 
